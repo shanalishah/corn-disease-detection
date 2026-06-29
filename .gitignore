@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+.venv312/
+.venv314/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Stale nested duplicate of the project (older copy, kept locally, not tracked)
+/Corn-Disease-Prediction-Deep-Learning-Project--master/
