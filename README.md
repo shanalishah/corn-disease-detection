@@ -4,7 +4,7 @@ A deep-learning web app that classifies a **corn (maize) leaf image** into one o
 categories — **Northern Corn Leaf Blight, Common Rust, Gray Leaf Spot, or Healthy** —
 using a convolutional neural network trained in TensorFlow/Keras.
 
-**▶️ Live demo:** _<!-- TODO: paste your Streamlit Cloud URL here after deploying, e.g. https://corn-disease-detection.streamlit.app -->_
+**▶️ Live demo:** https://corn-disease-detection-test.streamlit.app/
 
 <!--
   TODO (optional but recommended): add a screenshot or GIF of the app.
